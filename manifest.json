@@ -1,0 +1,14 @@
+{
+  "name": "AgriRent – Agricultural Equipment Rental",
+  "short_name": "AgriRent",
+  "description": "Rent tractors, harvesters, pumps and farming tools from trusted owners.",
+  "start_url": "index.php?r=dashboard/index",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f5",
+  "theme_color": "#16803c",
+  "lang": "en",
+  "icons": [
+    { "src": "assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

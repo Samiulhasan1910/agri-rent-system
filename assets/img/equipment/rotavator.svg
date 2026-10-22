@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbeee3"/><stop offset="1" stop-color="#fdf9f5"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#sky)"/><circle cx="335" cy="62" r="26" fill="#ffe08a"/>
+<path d="M0 205 C70 170 140 182 210 196 S330 168 400 186 V300 H0Z" fill="#e8d6c3"/>
+<path d="M0 238 C90 222 190 232 260 240 S360 228 400 232 V300 H0Z" fill="#cdae8f"/><rect y="262" width="400" height="38" fill="#b48d68"/>
+<path d="M84 150 h232 a20 20 0 0 1 20 20 v28 H64 v-28 a20 20 0 0 1 20 -20z" fill="#ef6c00"/>
+<rect x="64" y="150" width="272" height="14" rx="7" fill="#fb8c00"/>
+<path d="M170 150 l28 -54 h18 l-20 54z" fill="#e65100"/>
+<rect x="186" y="84" width="46" height="16" rx="6" fill="#455a64"/>
+<rect x="190" y="104" width="36" height="34" rx="6" fill="#bf360c"/>
+<rect x="76" y="196" width="248" height="10" rx="5" fill="#37474f"/>
+<g stroke="#78909c" stroke-width="7" stroke-linecap="round"><path d="M92 206 l-10 34M116 206 l10 36M140 206 l-8 36M164 206 l12 34M188 206 l-10 36M212 206 l10 34M236 206 l-8 36M260 206 l12 34M284 206 l-10 34M308 206 l8 34"/></g>
+<rect x="320" y="176" width="44" height="12" rx="6" fill="#455a64"/>
+<circle cx="356" cy="210" r="18" fill="#263238"/><circle cx="356" cy="210" r="8" fill="#fbc02d"/>
+</svg>

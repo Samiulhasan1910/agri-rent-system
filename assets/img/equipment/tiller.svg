@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3f4e8"/><stop offset="1" stop-color="#f8fcf9"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#sky)"/><circle cx="335" cy="62" r="26" fill="#ffe08a"/>
+<path d="M0 205 C70 170 140 182 210 196 S330 168 400 186 V300 H0Z" fill="#cfe9d6"/>
+<path d="M0 238 C90 222 190 232 260 240 S360 228 400 232 V300 H0Z" fill="#a9d6b3"/><rect y="262" width="400" height="38" fill="#8fc79b"/>
+<path d="M232 150 L340 92" stroke="#455a64" stroke-width="9" stroke-linecap="round"/>
+<path d="M226 162 L346 112" stroke="#546e7a" stroke-width="9" stroke-linecap="round"/>
+<rect x="336" y="80" width="30" height="12" rx="6" fill="#263238" transform="rotate(-28 351 86)"/>
+<rect x="342" y="100" width="30" height="12" rx="6" fill="#263238" transform="rotate(-24 357 106)"/>
+<rect x="120" y="124" width="120" height="70" rx="12" fill="#d84315"/>
+<rect x="132" y="108" width="70" height="26" rx="8" fill="#e64a19"/><rect x="200" y="98" width="26" height="40" rx="6" fill="#455a64"/>
+<rect x="138" y="140" width="58" height="34" rx="6" fill="#263238"/>
+<g fill="#ff8a65"><rect x="144" y="146" width="46" height="4"/><rect x="144" y="154" width="46" height="4"/><rect x="144" y="162" width="46" height="4"/></g>
+<rect x="76" y="186" width="120" height="16" rx="8" fill="#bf360c"/>
+<circle cx="182" cy="226" r="40" fill="#263238"/><circle cx="182" cy="226" r="24" fill="#fbc02d"/><circle cx="182" cy="226" r="8" fill="#f57f17"/>
+<g stroke="#607d8b" stroke-width="6" stroke-linecap="round"><path d="M72 206 l-14 40M92 206 l6 44M112 206 l-10 42M132 206 l12 40"/></g>
+<rect x="60" y="200" width="88" height="12" rx="6" fill="#455a64"/>
+</svg>

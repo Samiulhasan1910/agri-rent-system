@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3f1fb"/><stop offset="1" stop-color="#f7fbfe"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#sky)"/><circle cx="335" cy="62" r="26" fill="#ffe08a"/>
+<path d="M0 205 C70 170 140 182 210 196 S330 168 400 186 V300 H0Z" fill="#cfe9d6"/>
+<path d="M0 238 C90 222 190 232 260 240 S360 228 400 232 V300 H0Z" fill="#a9d6b3"/><rect y="262" width="400" height="38" fill="#8fc79b"/>
+<path d="M92 92 h216 l-20 70 H112z" fill="#1565c0"/><rect x="88" y="84" width="224" height="16" rx="6" fill="#1e88e5"/>
+<g fill="#fbc02d"><circle cx="140" cy="118" r="5"/><circle cx="170" cy="126" r="5"/><circle cx="210" cy="118" r="5"/><circle cx="246" cy="128" r="5"/><circle cx="272" cy="116" r="5"/></g>
+<rect x="96" y="162" width="208" height="14" rx="6" fill="#37474f"/>
+<g stroke="#546e7a" stroke-width="6" stroke-linecap="round"><path d="M116 176 v44M146 176 v44M176 176 v44M206 176 v44M236 176 v44M266 176 v44"/></g>
+<g fill="#263238"><path d="M110 218 h12 l-6 14z"/><path d="M140 218 h12 l-6 14z"/><path d="M170 218 h12 l-6 14z"/><path d="M200 218 h12 l-6 14z"/><path d="M230 218 h12 l-6 14z"/><path d="M260 218 h12 l-6 14z"/></g>
+<circle cx="318" cy="214" r="30" fill="#263238"/><circle cx="318" cy="214" r="16" fill="#fbc02d"/>
+<path d="M304 170 l44 -26 h26" fill="none" stroke="#455a64" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+Options -Indexes
+DirectoryIndex index.php
+
+# Never serve source, configuration, SQL dumps, logs or backups directly.
+<FilesMatch "\.(sql|md|log|ini|lock|bak)$">
+    Require all denied
+</FilesMatch>
+
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+</IfModule>
+
+<IfModule mod_mime.c>
+    AddType application/manifest+json .webmanifest
+    AddType image/svg+xml .svg
+</IfModule>
