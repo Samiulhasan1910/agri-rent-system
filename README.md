@@ -46,7 +46,7 @@ faster, more transparent and easier to manage.
 
 ### 🔄 Software Process Model
 
-We followed the **Incremental Model**. The system was split into modules (Authentication, Equipment
+We followed the **RAD (Rapid Application Development) Model**. The system was split into modules (Authentication, Equipment
 Management, Booking & Payment, Support & Smart Features, Admin & Maintenance), and each increment went
 through analysis, design, coding and testing before the next one was added.
 
